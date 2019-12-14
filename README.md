@@ -17,4 +17,4 @@ Here are a few tips to keep in mind while working on these queries:
 - If something isn't behaving as you expect, break parts of the query out into their own, separate queries to make sure there's not an inner logic error.
 - Don't be afraid to write separate queries to check the underlying data, for instance you might write a query that you can use to manually check a calculation and give yourself confidence that the output you're seeing is correct.
 
-## _Please see the ipython file for code, outputs and step by step information._
+## _Please see the ipynb file for code, outputs and step by step information._
